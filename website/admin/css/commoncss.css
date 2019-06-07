@@ -1,0 +1,33 @@
+.sidenav{
+			background-image: linear-gradient(to top left,#8a4592,#35b0a9);
+			width :200px;
+			
+		}
+		.tabdiv ul{
+			background-image: linear-gradient(to top left,#8a4592,#35b0a9);
+		}
+		body{
+			background-color : #00bfa5 ;
+		}
+		.bg{
+			
+		}
+		nav{
+			background-image: linear-gradient(to top left,#8a4592,#35b0a9);
+			padding-left: 200px;
+		}
+		.nav-wrapper{
+			background-image: linear-gradient(to top left,#8a4592,#35b0a9);
+		}
+		.content{
+			padding-left: 200px;
+			height:100%;
+		}
+		.card-bg{
+			background: rgba(0,0,0,0);
+		}
+		@media only screen and (max-width: 992px){
+			.content,nav{
+				padding-left: 0;
+			}
+		}
